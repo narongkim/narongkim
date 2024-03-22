@@ -1,16 +1,19 @@
 ### Hi there 👋
+<!--
 # 😄 Profile
 고려대학교 컴퓨터학과 졸업 2019.02 ~ 2024.02
 
 신한투자증권 프로 디지털 아카데미 2024.03 ~ 2024.09
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narongkim&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narongkim&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj0032)](https://solved.ac/kyj0032/)
 # Contacts
 Email. sopia606@naver.com
 <br/>
 Blog. https://kyj0032.tistory.com/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narongkim&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narongkim&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj0032)](https://solved.ac/kyj0032/)
 # <div align="center">📚 Stacks</div>
 <div align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
