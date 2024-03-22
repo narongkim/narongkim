@@ -8,17 +8,15 @@
 Mobile App Developer, Front-end Engineer를 지망하고 있습니다
 
 # Contacts
-Email. sopia606@naver.com
-<br/>
 Blog. https://kyj0032.tistory.com/
 <div align="center">
     
  <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narongkim&show_icons=true" height="165">
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narongkim&layout=compact)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj0032)](https://solved.ac/kyj0032/)-->
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032)
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=narongkim&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=narongkim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=narongkim&include_orgs=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 # <div align="center">📚 Stacks</div>
 <div align="center">
