@@ -1,23 +1,19 @@
-### Hi there 👋
-<!--
-# 😄 Profile
-고려대학교 컴퓨터학과 졸업 2019.02 ~ 2024.02
+# Hi there 👋
+I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
+* 컴퓨터학과 졸업 (2019.03 ~ 2024.02)
+* KUGODS 동아리 CREW (2023.01 ~ 2023.08)
+* 신한투자증권 프로 디지털 아카데미 4기 (2024.03 ~ 2024.09)
+<br/>
 
-신한투자증권 프로 디지털 아카데미 2024.03 ~ 2024.09
--->
-Mobile App Developer, Front-end Engineer를 지망하고 있습니다
+# 🏆 Awards
+* Uni-DTHON 금상(2등) | CampUS (2022.11.06)
+* Google Solution Challenge Global Top 100 진출 | GoGreen (2023.05.05)
 
-# Contacts
-Blog. https://kyj0032.tistory.com/
-<div align="center">
-    
- <img align='center' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narongkim&show_icons=true" height="165">
+# 📂 Projects
+* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">세뱃돈 롤링 페이퍼</a>
+* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">CampUS</a>
+* <a href="https://github.com/KU-Solution-Challenge-GoGreen/GoGreen">GoGreen</a>
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032)
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=narongkim&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=narongkim)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=narongkim&include_orgs=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 # <div align="center">📚 Stacks</div>
 <div align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -27,4 +23,14 @@ Blog. https://kyj0032.tistory.com/
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br/>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+</div>
+
+<br/>
+<div align="center">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narongkim&show_icons=true" height="165">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=narongkim&include_orgs=true&layout=compact">
+        </a>
+    
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032)
 </div>
