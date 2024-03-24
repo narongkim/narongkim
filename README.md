@@ -10,9 +10,9 @@ I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
 * Google Solution Challenge Global Top 100 진출 | GoGreen (2023.05.05)
 
 # 📂 Projects
-* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">세뱃돈 롤링 페이퍼</a>
-* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">CampUS</a>
-* <a href="https://github.com/KU-Solution-Challenge-GoGreen/GoGreen">GoGreen</a>
+* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">세뱃돈 롤링 페이퍼</a> | UI/UX Design, FE, BE
+* <a href="https://github.com/UniD-Hackathon-Team2/CampUS">CampUS</a> | FE
+* <a href="https://github.com/KU-Solution-Challenge-GoGreen/GoGreen">GoGreen</a> | FE
 
 # <div align="center">📚 Stacks</div>
 <div align="center">
