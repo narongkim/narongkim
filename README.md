@@ -33,11 +33,11 @@ I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
 </div>
 <br/>
 <div align="center">
+    <a href="https://github.com/hyp3rflow/github-readme-solvedac"/>
+        <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032">
+    </a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narongkim&show_icons=true" height="165">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=narongkim&include_orgs=true&layout=compact">
-    </a>
-    <a href="https://github.com/hyp3rflow/github-readme-solvedac"/>
-        <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032">
     </a>
 </div>
