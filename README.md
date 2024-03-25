@@ -2,7 +2,7 @@
 I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
 * 컴퓨터학과 졸업 (2019.03 ~ 2024.02)
 * KUGODS 동아리 CREW (2023.01 ~ 2023.08)
-* 신한투자증권 프로 디지털 아카데미 4기 (2024.03 ~ 2024.09)
+* 신한투자증권 프로 디지털 아카데미 4기 (2024.03 ~ )
 <br/>
 
 # 🏆 Awards
@@ -12,12 +12,15 @@ I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
 <br/>
 
 # 📂 Projects
-* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">세뱃돈 롤링 페이퍼</a> | UI/UX Design, FE, BE
-    * HTML, Node.js, MySQL
-* <a href="https://github.com/UniD-Hackathon-Team2/CampUS">CampUS</a> | UI/UX Design, FE
-    * React Native, Apollo Server, PostgresQL
-* <a href="https://github.com/KU-Solution-Challenge-GoGreen/GoGreen">GoGreen</a> | UI/UX Design, FE
-    * Flutter, NestJS, Firebase, PostgresQL
+* <a href="https://github.com/summerNarong/rollingpaper_newyearsmoney">**세뱃돈 롤링 페이퍼**</a> **| UI/UX Design, FE, BE**
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+* <a href="https://github.com/UniD-Hackathon-Team2/CampUS">**CampUS**</a> **| UI/UX Design, FE**
+   <br/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=apollo graphql&logoColor=white"> <img src="https://img.shields.io/badge/PostgresQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+* <a href="https://github.com/KU-Solution-Challenge-GoGreen/GoGreen">**GoGreen**</a> **| UI/UX Design, FE**
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/PostgresQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
 
 <br/>
 
@@ -33,11 +36,11 @@ I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
 </div>
 <br/>
 <div align="center">
-    <a href="https://github.com/hyp3rflow/github-readme-solvedac"/>
+    <a href="https://solved.ac/profile/kyj0032"/>
         <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032">
     </a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narongkim&show_icons=true" height="165">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=narongkim&include_orgs=true&layout=compact">
-    </a>
+    
 </div>
