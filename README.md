@@ -37,3 +37,5 @@ I'm Yejin Kim. 깊이 있는 개발자가 되고 싶습니다.
         <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyj0032">
     </a>
 </div>
+
+<!-- 멋있어요 -->
